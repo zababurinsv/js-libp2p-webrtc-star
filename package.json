@@ -14,6 +14,7 @@
     "star-signal": "src/sig-server/bin.js"
   },
   "scripts": {
+    "start": "node src/sig-server/bin.js",
     "star-signal": "node src/sig-server/bin.js",
     "lint": "aegir lint",
     "build": "aegir build",
